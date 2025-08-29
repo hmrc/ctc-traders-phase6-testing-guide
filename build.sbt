@@ -1,4 +1,4 @@
-val appName = "service-guide-skeleton"
+val appName = "ctc-traders-phase6-testing-guide"
 
 scalaVersion := "2.13.16"
 
